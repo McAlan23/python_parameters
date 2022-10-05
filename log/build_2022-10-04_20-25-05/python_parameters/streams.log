@@ -1,0 +1,39 @@
+[0.490s] Invoking command in '/home/beka/ros2_foxy/src/python_parameters': PYTHONPATH=/home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/python_parameters build --build-base /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build install --prefix /home/beka/ros2_foxy/src/python_parameters/install/python_parameters --record /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/install.log --single-version-externally-managed
+[0.675s] running egg_info
+[0.676s] creating build/python_parameters/python_parameters.egg-info
+[0.676s] writing build/python_parameters/python_parameters.egg-info/PKG-INFO
+[0.676s] writing dependency_links to build/python_parameters/python_parameters.egg-info/dependency_links.txt
+[0.676s] writing entry points to build/python_parameters/python_parameters.egg-info/entry_points.txt
+[0.676s] writing requirements to build/python_parameters/python_parameters.egg-info/requires.txt
+[0.676s] writing top-level names to build/python_parameters/python_parameters.egg-info/top_level.txt
+[0.677s] writing manifest file 'build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[0.679s] reading manifest file 'build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[0.679s] writing manifest file 'build/python_parameters/python_parameters.egg-info/SOURCES.txt'
+[0.680s] running build
+[0.680s] running build_py
+[0.680s] creating /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build
+[0.680s] creating /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build/lib
+[0.680s] creating /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build/lib/python_parameters
+[0.680s] copying python_parameters/python_parameters_node.py -> /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build/lib/python_parameters
+[0.680s] copying python_parameters/__init__.py -> /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build/lib/python_parameters
+[0.680s] running install
+[0.681s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.681s]   warnings.warn(
+[0.682s] running install_lib
+[0.683s] creating /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages/python_parameters
+[0.683s] copying /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build/lib/python_parameters/python_parameters_node.py -> /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages/python_parameters
+[0.683s] copying /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build/lib/python_parameters/__init__.py -> /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages/python_parameters
+[0.683s] byte-compiling /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages/python_parameters/python_parameters_node.py to python_parameters_node.cpython-310.pyc
+[0.684s] byte-compiling /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages/python_parameters/__init__.py to __init__.cpython-310.pyc
+[0.684s] running install_data
+[0.684s] creating /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/share/ament_index
+[0.684s] creating /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/share/ament_index/resource_index
+[0.685s] creating /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/share/ament_index/resource_index/packages
+[0.685s] copying resource/python_parameters -> /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/share/ament_index/resource_index/packages
+[0.685s] copying package.xml -> /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/share/python_parameters
+[0.685s] running install_egg_info
+[0.686s] Copying build/python_parameters/python_parameters.egg-info to /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages/python_parameters-0.0.0-py3.10.egg-info
+[0.687s] running install_scripts
+[0.704s] Installing param_talker script to /home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python_parameters
+[0.704s] writing list of installed files to '/home/beka/ros2_foxy/src/python_parameters/build/python_parameters/install.log'
+[0.727s] Invoked command in '/home/beka/ros2_foxy/src/python_parameters' returned '0': PYTHONPATH=/home/beka/ros2_foxy/src/python_parameters/install/python_parameters/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/python_parameters build --build-base /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/build install --prefix /home/beka/ros2_foxy/src/python_parameters/install/python_parameters --record /home/beka/ros2_foxy/src/python_parameters/build/python_parameters/install.log --single-version-externally-managed
